@@ -23,16 +23,23 @@ enableEmoji: true
 
 # Site parameters
 params:
-  # GitHub repo URL of your site
-  gitRepo: https://github.com/swimyoda/thomasgalligani.com
+    # GitHub repo URL of your site
+    gitRepo: https://github.com/swimyoda/thomasgalligani.com
 
-  # specify whether you want to write some blog posts or not
-  enableBlogPost: true
+    # specify whether you want to write some blog posts or not
+    enableBlogPost: true
 
-  # specify whether you want to show Table of Contents in reading page
-  enableTOC: true
+    # specify whether you want to show Table of Contents in reading page
+    enableTOC: true
 
-  # Provide newsletter configuration. This feature hasn't been implemented yet.
-  # Currently, you can just hide it from the footer.
-  newsletter:
-    enable: true
+    # Provide newsletter configuration. This feature hasn't been implemented yet.
+    # Currently, you can just hide it from the footer.
+    newsletter:
+    enable: false
+    
+    # Copyright Notice
+    copyright: © 2022 
+
+    # Meta description for your site.  This will help the search engines to find your site.
+    description: Portfolio and personal blog of Tom Galligani.
+      
