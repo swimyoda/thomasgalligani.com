@@ -25,6 +25,21 @@ Daudavpils, Latvia, *May 2019 - June 2019*
 
 ### Experience
 ---
+#### Headquarters Air Combat Command
+Langley AFB, VA
+Chief, Information Warfare Analysis Branch, A9A
+*Jun 2023 - Present*
+- 
+
 #### Massachussets Institute of Technology
-Cambridge, MA, *Aug 2021 - Present*
+Cambridge, MA
+Research Assistant, Anyscale Learning For All Group
+*Aug 2021 - Present*
+- Developing tools to integrate data science into the intelligence analysis process to understand and respond to adversarial communication and disinformation narratives
+
+#### Carnegie Mellon University
+Pittsburgh, PA (Remote)
+Research Assistant, RObotics Institute
+
+
 
