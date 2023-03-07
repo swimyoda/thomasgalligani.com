@@ -8,7 +8,8 @@ comments: false
 ---
 #### Massachussets Institute of Technology
 Cambridge, MA, *Aug 2021 - Present*
-- Candidate for 
+- Candidate for *Master of Science* in *Technology and Policy*
+    - Focus in *Adversarial Communication*
 
 #### United States Air Force Academy
 Colorado Springs, CO, *Jun 2017 - May 2021*
@@ -17,7 +18,7 @@ Colorado Springs, CO, *Jun 2017 - May 2021*
     - Concentration in *Computational Astrodynamics*
     - Minor in *Russian Langage*
 - Cumulative GPA: 3.89/4.0 (includes PE classes), Major GPA: 3.99/4.0
-- Academic Rank: #28/1043 (Top 3%), Overall Rank (includes acadmeics, leadership, and atheletics)  #95/1043
+- Academic Rank: #28/1043 (Top 3%), Overall Rank (includes acadmeics, leadership, and atheletics): #95/1043
 
 #### Daugavpils University
 Daudavpils, Latvia, *May 2019 - June 2019*
@@ -121,8 +122,3 @@ Computer Science and Economics
 Mathematics and Statistics
 - Algorithms for Inference ([MIT 6.7810]())
 - 
-
-- IDS.412
-- 17.472
-- 
-= 

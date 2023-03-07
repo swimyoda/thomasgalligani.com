@@ -5,6 +5,7 @@ date: 2023-02-27
 tags: ["nationalsecurity", "innovation"]
 ---
 
+Here are some incomplete thoughts:
 
 Erik Johnson recently wrote an [article](https://warontherocks.com/2023/02/back-from-the-future-stop-saying-the-military-has-an-innovation-problem/) in War on the Rocks called "Back From the Future: Stop Saying the Military Has an Innovation Problem" in which he argues that "innovation theater" in DoD right now is missing the point and driving us away from rather than towards a better, faster modern acquisitions program. Specifically, he suggests that we need to delegate more to the private sector -- especially, silicon valley -- and let the experts innovate rather than pretending that the somewhat stunted and misshapen "DoD startups" are going to start producing actually gamechanging (or even generally useful on a practical level). He sees changing the acquisitions process to be more agile in its requirements and expectations as the answer, rather than trying to develop in-house "innovation" talent and capabilities. 
 
