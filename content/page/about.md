@@ -120,5 +120,10 @@ Computer Science and Economics
 - Artificial Intelligence ([USAFA COMPSCI 471]())
 
 Mathematics and Statistics
-- Algorithms for Inference ([MIT 6.7810]())
+- Algorithms for Inference ([MIT 6.7810](http://student.mit.edu/catalog/m6c.html#6.7810))
+- 
+
+International Relations
+- International Conflict in the Gray Space Between War and Peace ([MIT 17.472 ](http://student.mit.edu/catalog/m17b.html#17.472))
+- The International Law of the Sea ([HLS 2958](https://hls.harvard.edu/courses/the-international-law-of-the-sea/))
 - 
