@@ -1,6 +1,6 @@
-baseurl = "https://freeattractions.com"
+baseurl = "https://thomasgalligani.com"
 DefaultContentLanguage = "en"
-title = "Бесплатно Достопримечательности"
+title = "Tom Galligani"
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -12,7 +12,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "G-TTBGZL6ZW1"
 
 [Params]
-  homeTitle = "Бесплатно Достопримечательности" # Set a different text for the header on the home page
+  homeTitle = "Tom Galligani" # Set a different text for the header on the home page
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
