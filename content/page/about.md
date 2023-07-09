@@ -4,7 +4,7 @@ subtitle: About Me
 comments: false
 ---
 
-This amounts to an HTML 
+This amounts to an HTML resume.
 
 ### Education
 ---
