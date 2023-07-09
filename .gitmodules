@@ -1,0 +1,18 @@
+[submodule "themes/toha"]
+	path = themes/toha
+	url = https://github.com/hugo-toha/toha.git
+[submodule "themes/poison"]
+	path = themes/poison
+	url = https://github.com/lukeorth/poison.git
+[submodule "poison"]
+	path = poison
+	url = https://github.com/lukeorth/poison.git
+[submodule "themes/hugo-theme-notrack"]
+	path = themes/hugo-theme-notrack
+	url = https://github.com/gevhaz/hugo-theme-notrack.git
+[submodule "themes/themes/beautifulhugo"]
+	path = themes/themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
