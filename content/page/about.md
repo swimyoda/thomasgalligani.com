@@ -9,7 +9,7 @@ This amounts to an HTML resume.
 ### Education
 ---
 #### Massachussets Institute of Technology
-Cambridge, MA, *Aug 2021 - Present*
+Cambridge, MA, *Aug 2021 - June 2023*
 - Candidate for *Master of Science* in *Technology and Policy*
     - Focus in *Adversarial Communication*
 
@@ -20,7 +20,7 @@ Colorado Springs, CO, *Jun 2017 - May 2021*
     - Concentration in *Computational Astrodynamics*
     - Minor in *Russian Langage*
 - Cumulative GPA: 3.89/4.0 (includes PE classes), Major GPA: 3.99/4.0
-- Academic Rank: #28/1043 (Top 3%), Overall Rank (includes acadmeics, leadership, and atheletics): #95/1043
+- Academic Rank: #28/1043 (Top 3%), Overall Rank (includes academics, leadership, and athletics): #95/1043
 
 #### Daugavpils University
 Daudavpils, Latvia, *May 2019 - June 2019*
@@ -28,11 +28,11 @@ Daudavpils, Latvia, *May 2019 - June 2019*
 
 ### Experience
 ---
-#### Headquarters Air Combat Command
+#### Headquarters, Air Combat Command
 Langley AFB, VA\
-Chief, Information Warfare Analysis Branch, A9A\
+Operations Research Analyst, Det 4\
 *Jun 2023 - Present*
-- a
+- Conducts analyses supporting ACC commanders at the squadron, group, and wing level
 
 #### Massachussets Institute of Technology
 Cambridge, MA\

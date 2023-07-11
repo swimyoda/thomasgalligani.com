@@ -1,7 +1,7 @@
 ---
 title: Can we solve the "innovation problem" problem?
 subtitle: Sick of hearing about innovation? Me too, but we still have to do it
-date: 2023-02-27
+date: 2025-02-27
 tags: ["nationalsecurity", "innovation"]
 ---
 

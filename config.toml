@@ -53,6 +53,10 @@ pygmentsCodefencesGuessSyntax = true
     url = "page/about/"
     weight = 3
 
+[[menu.main]]
+    name = "Splash"
+    url = "page/splash/"
+    weight = 3
 
 [[menu.main]]
     name = "Tags"
