@@ -37,7 +37,7 @@ Operations Research Analyst, Det 4\
 #### Massachussets Institute of Technology
 Cambridge, MA\
 Research Assistant, Anyscale Learning For All Group\
-*Aug 2021 - Present*
+*Aug 2021 - June 2023*
 - Developing tools to integrate data science into the intelligence analysis process to understand and respond to adversarial communication and disinformation narratives
 
 #### Carnegie Mellon University
@@ -50,7 +50,7 @@ Research Assistant, Robotics Institute\
 
 #### United State Air Force Academy
 Colorado Springs, CO\
-Director of Training, USAFA CYber COmpetition Team\
+Director of Training, USAFA Cyber Competition Team\
 *AY 2020/21*
 - Elected (after 2 years of team membership) to help lead team of over 20 returning cadets and 50 prospective new members
 - Responsible for developing team knowledge of cyber domain – including technical skills and strategic/policy understanding
